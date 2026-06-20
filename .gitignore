@@ -1,0 +1,33 @@
+# React
+node_modules/
+build/
+
+# Python
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+.pytest_cache/
+.mypy_cache/
+
+# Build
+dist/
